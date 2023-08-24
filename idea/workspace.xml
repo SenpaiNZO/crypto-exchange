@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="976f8c58-d0e8-4205-a405-38cc93fee500" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uzp5sB4vBgyuaWfKlAqKcQDWAP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="976f8c58-d0e8-4205-a405-38cc93fee500" name="Default Changelist" comment="" />
+      <created>1625678094994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625678094994</updated>
+      <workItem from="1625678097366" duration="2628000" />
+      <workItem from="1625681810055" duration="4934000" />
+      <workItem from="1625733752632" duration="919000" />
+      <workItem from="1625740323199" duration="29000" />
+      <workItem from="1625748010453" duration="2009000" />
+      <workItem from="1625756438633" duration="1837000" />
+      <workItem from="1625762682155" duration="4708000" />
+      <workItem from="1625844749561" duration="364000" />
+      <workItem from="1625845378928" duration="1839000" />
+      <workItem from="1625847366117" duration="269000" />
+      <workItem from="1625851354754" duration="2608000" />
+      <workItem from="1626107672217" duration="2623000" />
+      <workItem from="1626331141565" duration="673000" />
+      <workItem from="1626437975864" duration="3654000" />
+      <workItem from="1626452890810" duration="6967000" />
+      <workItem from="1626461876781" duration="1877000" />
+      <workItem from="1626514207789" duration="3420000" />
+      <workItem from="1626534964746" duration="878000" />
+      <workItem from="1626537951617" duration="39000" />
+      <workItem from="1626538040208" duration="881000" />
+      <workItem from="1626547510013" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/BTC_files/custom.js</url>
+          <line>225</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
